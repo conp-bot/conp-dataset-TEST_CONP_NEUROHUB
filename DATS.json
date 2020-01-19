@@ -1,0 +1,56 @@
+{
+    "zenodo": {
+        "concept_doi": "3336544",
+        "version": "3336545"
+    },
+    "title": "TEST CONP-NEUROHUB",
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.3336544",
+        "identifierSource": "DOI"
+    },
+    "creators": [
+        {
+            "affiliation": "McGill University",
+            "name": "Jennifer Tremblay-Mercier"
+        }
+    ],
+    "description": "<p>Test for Santiago</p>",
+    "types": [],
+    "version": "1",
+    "licenses": [
+        {
+            "id": "CC-BY-4.0"
+        }
+    ],
+    "keywords": [
+        "canadian-open-neuroscience-platform",
+        "test 1",
+        "test 2"
+    ],
+    "distributions": {
+        "format": "rtf",
+        "size": 308,
+        "unit": {
+            "value": "B"
+        },
+        "access": "https://zenodo.org/record/3336545"
+    },
+    "extraProperties": [
+        {
+            "category": "subjects",
+            "values": [
+                {
+                    "value": null
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": null
+                }
+            ]
+        }
+    ]
+}
